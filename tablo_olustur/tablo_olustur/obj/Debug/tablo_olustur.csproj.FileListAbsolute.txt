@@ -1,0 +1,9 @@
+c:\users\nezirgun\documents\visual studio 2015\Projects\tablo_olustur\tablo_olustur\bin\Debug\tablo_olustur.exe.config
+c:\users\nezirgun\documents\visual studio 2015\Projects\tablo_olustur\tablo_olustur\obj\Debug\tablo_olustur.csprojResolveAssemblyReference.cache
+c:\users\nezirgun\documents\visual studio 2015\Projects\tablo_olustur\tablo_olustur\obj\Debug\tablo_olustur.Form1.resources
+c:\users\nezirgun\documents\visual studio 2015\Projects\tablo_olustur\tablo_olustur\obj\Debug\tablo_olustur.Properties.Resources.resources
+c:\users\nezirgun\documents\visual studio 2015\Projects\tablo_olustur\tablo_olustur\obj\Debug\tablo_olustur.csproj.GenerateResource.Cache
+c:\users\nezirgun\documents\visual studio 2015\Projects\tablo_olustur\tablo_olustur\bin\Debug\tablo_olustur.exe
+c:\users\nezirgun\documents\visual studio 2015\Projects\tablo_olustur\tablo_olustur\bin\Debug\tablo_olustur.pdb
+c:\users\nezirgun\documents\visual studio 2015\Projects\tablo_olustur\tablo_olustur\obj\Debug\tablo_olustur.exe
+c:\users\nezirgun\documents\visual studio 2015\Projects\tablo_olustur\tablo_olustur\obj\Debug\tablo_olustur.pdb
